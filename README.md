@@ -1,5 +1,5 @@
 # Multi class classification
-* Image classification of subclasses of Food, Flowers and Animals.
+* Image classification into subclasses of Food, Flowers and Animals.
 * Link to training dataset is:
 https://drive.google.com/drive/folders/18BhzbaE4ykJ5ntSqefs_bKMehyKxUuma?usp=sh
 aring
